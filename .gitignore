@@ -1,0 +1,9 @@
+# Source / local dev (not published)
+_app/
+_資料/
+
+# Runtime / secrets
+config.ini
+log/
+*.exe
+メールサーバー設定（仮）.txt
