@@ -15,7 +15,7 @@ RICOH 複合機（Web Image Monitor）からトータルカウンターを取得
 
 ### 1. 起動
 
-`Total Counter Mail.exe` をダブルクリックして起動します。  
+[Total Counter Mail.exe](Total%20Counter%20Mail.exe) をダウンロードしてダブルクリックで起動します。  
 設定は exe と同じフォルダの `config.ini` に保存されます（暗号化）。
 
 ### 2. 接続設定タブ
@@ -56,7 +56,7 @@ RICOH 複合機（Web Image Monitor）からトータルカウンターを取得
 ## ファイル構成（配布フォルダ）
 
 ```
-Total Counter Mail.exe   … アプリ本体
+Total Counter Mail.exe   … アプリ本体（本リポジトリに同梱）
 config.ini               … 設定（初回保存後に作成、暗号化）
 log/                     … 送信ログ・送信履歴
 利用規約.txt             … 自動送信機能の利用規約
@@ -77,5 +77,6 @@ log/                     … 送信ログ・送信履歴
 全文は [利用規約.txt](利用規約.txt) を参照してください。
 
 ## 連絡先
-全ソースコードは販売しておりますので以下まで問合せ下さい。
+
+全ソースコードは販売しておりますので以下まで問合せ下さい。  
 X [@Mecha_sekkei](https://x.com/Mecha_sekkei)
