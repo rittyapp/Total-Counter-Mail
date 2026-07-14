@@ -1,10 +1,4 @@
-# Source / local dev (not published)
-_app/
-_資料/
-
 # Runtime / secrets
 config.ini
 log/
 *.exe
-!Total Counter Mail.exe
-メールサーバー設定（仮）.txt
